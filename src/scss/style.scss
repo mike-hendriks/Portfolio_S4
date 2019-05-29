@@ -1,0 +1,22 @@
+// Bootstrap
+// @import '~bootstrap/scss/bootstrap';
+
+// Variables
+@import "abstracts/variables";
+
+// Globals
+@import "base/globals";
+// Animation
+@import "base/animation";
+
+
+// Typography
+@import 'base/typography';
+
+// Aditional
+@import 'base/nav';
+@import 'components/course_page';
+@import 'components/assignment_page';
+@import 'components/slider';
+// @import 'components/cms';
+// @import 'components/glitch';

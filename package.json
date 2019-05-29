@@ -1,22 +1,51 @@
 {
-  "name": "portfolio_s4",
+  "name": "project-template",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A working directory containing all the essential files and functions to get started with your new project.",
+  "main": "index.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mike-hendriks/Portfolio_S4.git"
+    "url": "git+https://github.com/mike-hendriks/Blank-project.git"
   },
-  "author": "",
+  "keywords": [
+    "HTML",
+    "CSS",
+    "SCSS",
+    "JS",
+    "JavaScript",
+    "Compile",
+    "GULP",
+    "Minify"
+  ],
+  "author": "Mike Hendriks",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mike-hendriks/Portfolio_S4/issues"
+    "url": "https://github.com/mike-hendriks/Blank-project/issues"
   },
-  "homepage": "https://github.com/mike-hendriks/Portfolio_S4#readme",
+  "homepage": "https://github.com/mike-hendriks/Blank-project#readme",
   "dependencies": {
-    "ftp-deploy": "^2.3.3"
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "babel": "^6.23.0",
+    "babelify": "^10.0.0",
+    "browser-sync": "^2.26.5",
+    "browserify": "^16.2.3",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-cache": "^1.1.1",
+    "gulp-if": "^2.0.2",
+    "gulp-notify": "^3.2.0",
+    "gulp-options": "^1.1.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-strip-debug": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^4.12.0",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
   }
 }

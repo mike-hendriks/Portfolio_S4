@@ -1,0 +1,37 @@
+.img-responsive{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+body{
+    height: 100vh;
+    background-color: $background;
+
+    &.menu_active{
+        overflow: hidden;
+    }
+}
+main{
+    transition: all .5s cubic-bezier(0.645, 0.045, 0.355, 1);
+    &.inactive{
+        transform: translateX(-100px);
+        opacity: 1;
+
+        &.no_effect{
+            transform: none;
+        }
+    }
+}
+
+.button{
+    color: #fff;
+    background-color: $red;
+    display: inline-block !important;
+    padding: 10px 15px;
+    transition: all .3s cubic-bezier(0.645, 0.045, 0.355, 1);
+
+    &:hover{
+        background-color: lighten($red, 8%);
+    }
+}

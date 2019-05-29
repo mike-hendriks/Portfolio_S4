@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+*{
+    font-family: 'Raleway', sans-serif;
+    // font-family: 'Open Sans', sans-serif;
+    // font-family: 'Lato', sans-serif;
+    // font-family: 'Montserrat', sans-serif;
+    // font-family: 'Roboto', sans-serif;
+}
+@font-face {
+  font-family: "Google Sans";
+  src: url(../fonts/google_sans/GoogleSans-Regular.ttf) format("truetype");
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Google Sans', sans-serif;
+}
+
+h1{
+    margin-left: 20px;
+    font-size: 22px;
+    color: lighten($black, 60%);
+    margin-bottom: 30px;
+}
+
+p{
+    letter-spacing: .5px;
+}

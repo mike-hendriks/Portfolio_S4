@@ -1,0 +1,40 @@
+.post{
+    position: relative;
+    margin-bottom: 70px;
+
+    ul{
+        padding-left: 30px;
+        li{
+            list-style-type: disc;
+        }
+    }
+
+    h1{
+        margin-bottom: 20px;
+    }
+}
+
+.pagination{
+    position: relative;
+    width: 100%;
+    padding: 30px 30px;
+
+    a{
+        color: #fff;
+
+        &.left{
+            position: absolute;
+            left: 0;
+        }
+        &.right{
+            position: absolute;
+            right: 0;
+        }
+    }
+}
+
+.edit_post{
+    position: absolute;
+    right: 10px;
+    bottom: 30px;
+}
