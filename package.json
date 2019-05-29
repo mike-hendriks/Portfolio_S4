@@ -33,6 +33,7 @@
     "babelify": "^10.0.0",
     "browser-sync": "^2.26.5",
     "browserify": "^16.2.3",
+    "ftp-deploy": "^2.3.3",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",
     "gulp-cache": "^1.1.1",

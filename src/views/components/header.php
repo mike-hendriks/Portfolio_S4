@@ -30,11 +30,10 @@
     </div>
     <nav>
         <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/course/ptm">Proftaak</a></li>
-            <li><a href="/course/uxu">User Experience</a></li>
-            <li><a href="/course/ded">Design & Development</a></li>
-            <li><a href="/course/sco">Strategie & Concept</a></li>
-            <li><a href="/zelfportret">Zelfportret</a></li>
+            <li><a href="/portfolio-s4/">Home</a></li>
+            <li><a href="/portfolio-s4/ptm">Proftaak</a></li>
+            <li><a href="/portfolio-s4/ux">User Experience</a></li>
+            <li><a href="/portfolio-s4/dev">Development</a></li>
+            <li><a href="/portfolio-s4/sco">Strategie & Concept</a></li>
         </ul>
     </nav>
