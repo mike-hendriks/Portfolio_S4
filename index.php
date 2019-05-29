@@ -13,7 +13,7 @@
                     <div class="overlay_container">
                         <div class="block_overlay"></div>
                     </div>
-                    <a href="/assignment/{{ $assignment->slug }}">
+                    <a href="/portfolio-s4/ptm">
                         <div class="image_container">
                             <img src="./public/images/ptm.png" alt="" class="img-responsive">
                         </div>
@@ -28,7 +28,7 @@
                     <div class="overlay_container">
                         <div class="block_overlay"></div>
                     </div>
-                    <a href="/assignment/{{ $assignment->slug }}">
+                    <a href="/portfolio-s4/sco">
                         <div class="image_container">
                             <img src="./public/images/sco.png" alt="" class="img-responsive">
                         </div>
@@ -43,7 +43,7 @@
                     <div class="overlay_container">
                         <div class="block_overlay"></div>
                     </div>
-                    <a href="/assignment/{{ $assignment->slug }}">
+                    <a href="/portfolio-s4/ux">
                         <div class="image_container">
                             <img src="./public/images/ux.png" alt="" class="img-responsive">
                         </div>
@@ -58,7 +58,7 @@
                     <div class="overlay_container">
                         <div class="block_overlay"></div>
                     </div>
-                    <a href="/assignment/{{ $assignment->slug }}">
+                    <a href="/portfolio-s4/dev">
                         <div class="image_container">
                             <img src="./public/images/dev.png" alt="" class="img-responsive">
                         </div>
