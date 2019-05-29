@@ -3,14 +3,14 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col s12">
-                <h1>Strategie & Concepting</h1>
+                <h1>Proftaak</h1>
             </div>
         </div>
     </div>
 
 
 
-    <h1>SCO content here</h1>
+    <h1>PTM content here</h1>
 
 
 

@@ -45,7 +45,7 @@ function browser_sync() {
 		// server: {
 		// 	baseDir: './public/'
     // }
-    proxy: 'localhost/portfolio_s4'
+    proxy: 'localhost/portfolio-s4'
 	});
 }
 function clearCache() {
