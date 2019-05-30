@@ -8,7 +8,7 @@ var config = {
   port: 21,
   localRoot: __dirname + "/../",
   remoteRoot: process.env.FTPPATH,
-  deleteRemote: true,
+  deleteRemote: false,
   include: ["*"],
   exlude: [
     "/.circleci",
