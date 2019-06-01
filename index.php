@@ -3,7 +3,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col s12">
-                    <h1>The Parkinson Project</h1>
+                    <h1>Project-B - The Parkinson Project</h1>
                 </div>
             </div>
             <div class="row">
