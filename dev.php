@@ -178,8 +178,8 @@
 
     <div class="container">
         <div class="pagination">
-            <a href="/portfolio-s4/ptm" class="left button">Proftaak</a>
-            <a href="/portfolio-s4/ux" class="right button">User Experience</a>
+            <a href="/portfolio-s4/ux" class="left button">User Experience</a>
+            <a href="/portfolio-s4/sco" class="right button">Strategie & Concepting</a>
         </div>
     </div>
 
