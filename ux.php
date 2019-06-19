@@ -60,6 +60,15 @@
 
                     <b>Bezoek Parkinson Café - 11 april</b><br>
                     Tijdens het bezoek aan het Parkinson Café in eindhoven op 11 april heb ik, net zoals iedereen uit de proftaak groep, <a href="https://xd.adobe.com/view/f1faff5a-64dc-400a-47e7-befa34913d4b-87cb/?fullscreen" target="_blank">Prototype gate 2</a> getest op de doelgroep. Hierbij heb ik kort vooraf wat vragen gesteld over de gebruiker, mijzelf voorgesteld en verteld waar ons product voor dient. Doordat ik van te voren heb nagedacht over hoe ik het ging aanpakken merkte ik wel degelijk verschil met voorgaande tests uit andere semesters. Ik kreeg veel gerichter feedback op het product. Feedback waar wij ook duidelijk iets mee kunnen. In totaal is er bij het cafe getest met ongeveer 6 personen. De verwerkte resultaten zijn <a href="https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/edit?usp=sharing" target="_blank">hier</a> te vinden.
+                    <br><br>
+                    Ik ben blij met de inzichten die wij hebben gekregen. Veel hypotheses zijn bevestigd, zoals het gebruik van de kleuren en icoontjes. Ook hebben we ontdekt dat oefeningen niet zo werken als wij hadden gedacht. Maar de testpersonen vinden het nog steeds een nuttige functie.
+                    <br><br>
+                    Het testen verliep ook goed en we hadden het goed voorbereid. Door vooraf af te spreken wie aantekeningen maakt, wie vragen stelt en wie afbeeldingen/ video’s maakt verliepen de tests heel soepel.
+
+                    <br><br>
+                    <b>Usability test</b> <br>
+                    Aan het einde van het project heb ik samen met mijn proftaak groep ons product getest bij de doelgroep. Het testplan dat is opgezet voor deze test is gemaakt door Bart en Max. In totaal zijn er 6 testen uitgevoerd, door iedereen 1. De bevindingen, mogelijke aanpassingen en reflecties van de test zijn te vinden in dit document. <a href="https://docs.google.com/document/d/1CjGGdkMwiz6Kw4cdddxNgR5q7fArJsJDPkqS4-nLoI8/edit?usp=sharing" target="_blank">Usability testrapport.</a> 
+   
                 </p>
                 <br>
 
@@ -68,6 +77,9 @@
                     <li><a href="https://docs.google.com/document/d/1vWBSlOnRip88YsMuzoMdp6u-qB5gzLuMiRMHghgpkxg/edit?usp=sharing" target="_blank">Onderzoeksdocument</a></li>
                     <li><a href="https://www.youtube.com/watch?v=EYMnHK3H6vQ&feature=youtu.be" target="_blank">A day in the life</a></li>
                     <li><a href="https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/edit?usp=sharing" target="_blank">Parkinson Cafe usertest - 11 april</a></li>
+                    <li><a href="https://docs.google.com/document/d/1pl7AqTcleHD_8KdwavQDR_xP7Tcy-oSZsyGGcvpWxco/edit?usp=sharing" target="_blank">User story: Als Parkinson patiënt wil ik een overzicht van alle dagelijkse handelingen die met mijn ziekte te maken hebben.</a></li>
+                    <li><a href="https://docs.google.com/document/d/1seq7UdSGGpmRaTNDejiVJ22EDRW3PTystY9_zMNHfgM/edit?usp=sharing" target="_blank">User story: Als gebruiker van de app wil ik een overzicht van alle functionaliteiten die de app te bieden heeft.</a></li>
+                    <li><a href="https://docs.google.com/document/d/1CjGGdkMwiz6Kw4cdddxNgR5q7fArJsJDPkqS4-nLoI8/edit?usp=sharing" target="_blank">Usability testrapport</a></li>
                 </ul>
             </div>    
         </div>
@@ -119,7 +131,20 @@
                 <p>
                     <br>
                     <b>Ontwerpen en onderbouwing</b><br>
-                    Tijdens het project heb ik het een en ander ontworpen en bedacht. Meer informatie hierover is te vinden in het document <a href="https://docs.google.com/document/d/1oN1I2wTQHwd_WguXDZICuoJKO8jnxf0erBPPcoLVwAU/edit?usp=sharing" target="_blank">Interface onderbouwing</a>
+                    Tijdens sprint 2 heb ik gewerkt aan het eerste ontwerp van de app. Het proces hiervan is volledig te vinden in het onderstaande document. Het ontwerp is gemaakt door mij, met wat inspiratie van mijn groepsgenoten. Het volledige proces is hier te lezen. <a href="https://docs.google.com/document/d/1oN1I2wTQHwd_WguXDZICuoJKO8jnxf0erBPPcoLVwAU/edit?usp=sharing" target="_blank">Interface onderbouwing</a>. Het prototype zelf is hier te vinden <a href="https://xd.adobe.com/view/f1faff5a-64dc-400a-47e7-befa34913d4b-87cb/?fullscreen" target="_blank">Prototype gate 2</a>.
+                   
+                   <br><br>
+                   <b>Bezoek Parkinson Café - 11 april</b><br>
+                    Tijdens het bezoek aan het Parkinson Café in eindhoven op 11 april heb ik, net zoals iedereen uit de proftaak groep, <a href="https://xd.adobe.com/view/f1faff5a-64dc-400a-47e7-befa34913d4b-87cb/?fullscreen" target="_blank">Prototype gate 2</a> getest op de doelgroep. Hierbij heb ik kort vooraf wat vragen gesteld over de gebruiker, mijzelf voorgesteld en verteld waar ons product voor dient. Doordat ik van te voren heb nagedacht over hoe ik het ging aanpakken merkte ik wel degelijk verschil met voorgaande tests uit andere semesters. Ik kreeg veel gerichter feedback op het product. Feedback waar wij ook duidelijk iets mee kunnen. In totaal is er bij het cafe getest met ongeveer 6 personen. De verwerkte resultaten zijn <a href="https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/edit?usp=sharing" target="_blank">hier</a> te vinden.
+                    <br><br>
+                    Ik ben blij met de inzichten die wij hebben gekregen. Veel hypotheses zijn bevestigd, zoals het gebruik van de kleuren en icoontjes. Ook hebben we ontdekt dat oefeningen niet zo werken als wij hadden gedacht. Maar de testpersonen vinden het nog steeds een nuttige functie.
+                    <br><br>
+                    Het testen verliep ook goed en we hadden het goed voorbereid. Door vooraf af te spreken wie aantekeningen maakt, wie vragen stelt en wie afbeeldingen/ video’s maakt verliepen de tests heel soepel.
+
+                    <br><br>
+                    <b>Usability test</b> <br>
+                    Aan het einde van het project heb ik samen met mijn proftaak groep ons product getest bij de doelgroep. Het testplan dat is opgezet voor deze test is gemaakt door Bart en Max. In totaal zijn er 6 testen uitgevoerd, door iedereen 1. De bevindingen, mogelijke aanpassingen en reflecties van de test zijn te vinden in dit document. <a href="https://docs.google.com/document/d/1CjGGdkMwiz6Kw4cdddxNgR5q7fArJsJDPkqS4-nLoI8/edit?usp=sharing" target="_blank">Usability testrapport.</a> 
+   
                 </p>
             </div>
             <br>
@@ -128,6 +153,10 @@
                 <ul>
                     <li><a href="https://docs.google.com/document/d/1oN1I2wTQHwd_WguXDZICuoJKO8jnxf0erBPPcoLVwAU/edit?usp=sharing" target="_blank">Interface onderbouwing</a></li>
                     <li><a href="https://xd.adobe.com/view/f1faff5a-64dc-400a-47e7-befa34913d4b-87cb/?fullscreen" target="_blank">Prototype gate 2</a></li>
+                    <li><a href="https://docs.google.com/document/d/1pl7AqTcleHD_8KdwavQDR_xP7Tcy-oSZsyGGcvpWxco/edit?usp=sharing" target="_blank">User story: Als Parkinson patiënt wil ik een overzicht van alle dagelijkse handelingen die met mijn ziekte te maken hebben.</a></li>
+                    <li><a href="https://docs.google.com/document/d/1seq7UdSGGpmRaTNDejiVJ22EDRW3PTystY9_zMNHfgM/edit?usp=sharing" target="_blank">User story: Als gebruiker van de app wil ik een overzicht van alle functionaliteiten die de app te bieden heeft.</a></li>
+                    <li><a href="https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/edit?usp=sharing" target="_blank">Parkinson Cafe usertest - 11 april</a></li>
+                    <li><a href="https://docs.google.com/document/d/1CjGGdkMwiz6Kw4cdddxNgR5q7fArJsJDPkqS4-nLoI8/edit?usp=sharing" target="_blank">Usability testrapport</a></li>
                 </ul>
             </div>    
         </div>
@@ -157,7 +186,20 @@
                 
                 <p>
                     <b>Ontwerpen en onderbouwing</b><br>
-                    Tijdens het project heb ik het een en ander ontworpen en bedacht. Meer informatie hierover is te vinden in het document <a href="https://docs.google.com/document/d/1oN1I2wTQHwd_WguXDZICuoJKO8jnxf0erBPPcoLVwAU/edit?usp=sharing" target="_blank">Interface onderbouwing</a>
+                    Tijdens sprint 2 heb ik gewerkt aan het eerste ontwerp van de app. Het proces hiervan is volledig te vinden in het onderstaande document. Het ontwerp is gemaakt door mij, met wat inspiratie van mijn groepsgenoten. Het volledige proces is hier te lezen. <a href="https://docs.google.com/document/d/1oN1I2wTQHwd_WguXDZICuoJKO8jnxf0erBPPcoLVwAU/edit?usp=sharing" target="_blank">Interface onderbouwing</a>. Het prototype zelf is hier te vinden <a href="https://xd.adobe.com/view/f1faff5a-64dc-400a-47e7-befa34913d4b-87cb/?fullscreen" target="_blank">Prototype gate 2</a>.
+                    <br><br>
+                    
+                    <b>Design guidelines</b>
+                    Het eerste ontwerp voor de app is gemaakt door mij. Het ontwerp is gemaakt voor de homepagina, het schema, en de overzichtspagina’s van medicatie en oefeningen. Vervolgens zijn de design guidelines opgesteld vanuit dit ontwerp. De design guidelines zijn opgesteld door Bart.
+                    <br><br>
+
+                    <b>Ontwerp testen</b>
+                    Het ontwerp is ook getest door de doelgroep bij ons bezoek aan het Parkinson Café Eindhoven op 11 april. De testresultaten en wat wij hiervan gaan verwerken is te vinden in dit document. Iedereen uit de projectgroep heeft hier 1 test afgelegd. Het testplan en de opzet van het bestand is gemaakt door mij. Verder heeft iedereen zijn eigen bevindingen in het bestand verwerkt. <a href="https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/edit?usp=sharing" target="_blank">Parkinson Cafe usertest - 11 april</a>
+                    <br><br>
+
+                    <b>Usability test</b> <br>
+                    Aan het einde van het project heb ik samen met mijn proftaak groep ons product getest bij de doelgroep. Het testplan dat is opgezet voor deze test is gemaakt door Bart en Max. In totaal zijn er 6 testen uitgevoerd, door iedereen 1. De bevindingen, mogelijke aanpassingen en reflecties van de test zijn te vinden in dit document. <a href="https://docs.google.com/document/d/1CjGGdkMwiz6Kw4cdddxNgR5q7fArJsJDPkqS4-nLoI8/edit?usp=sharing" target="_blank">Usability testrapport.</a> 
+   
                 </p>
 
                 <br>
@@ -165,6 +207,10 @@
                 <ul>
                     <li><a href="https://docs.google.com/document/d/1oN1I2wTQHwd_WguXDZICuoJKO8jnxf0erBPPcoLVwAU/edit?usp=sharing" target="_blank">Interface onderbouwing</a></li>
                     <li><a href="https://xd.adobe.com/view/f1faff5a-64dc-400a-47e7-befa34913d4b-87cb/?fullscreen" target="_blank">Prototype gate 2</a></li>
+                    <li><a href="https://docs.google.com/document/d/1pl7AqTcleHD_8KdwavQDR_xP7Tcy-oSZsyGGcvpWxco/edit?usp=sharing" target="_blank">User story: Als Parkinson patiënt wil ik een overzicht van alle dagelijkse handelingen die met mijn ziekte te maken hebben.</a></li>
+                    <li><a href="https://docs.google.com/document/d/1seq7UdSGGpmRaTNDejiVJ22EDRW3PTystY9_zMNHfgM/edit?usp=sharing" target="_blank">User story: Als gebruiker van de app wil ik een overzicht van alle functionaliteiten die de app te bieden heeft.</a></li>
+                    <li><a href="https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/edit?usp=sharing" target="_blank">Parkinson Cafe usertest - 11 april</a></li>
+                    <li><a href="https://docs.google.com/document/d/1CjGGdkMwiz6Kw4cdddxNgR5q7fArJsJDPkqS4-nLoI8/edit?usp=sharing" target="_blank">Usability testrapport</a></li>
                 </ul>
             </div>
         </div>

@@ -59,7 +59,15 @@
                     <br><br>
 
                     <b>Ontwerpen en onderbouwing</b><br>
-                    Tijdens het project heb ik het een en ander ontworpen en bedacht. Meer informatie hierover is te vinden in het document <a href="https://docs.google.com/document/d/1oN1I2wTQHwd_WguXDZICuoJKO8jnxf0erBPPcoLVwAU/edit?usp=sharing" target="_blank">Interface onderbouwing</a>
+                    Tijdens sprint 2 heb ik gewerkt aan het eerste ontwerp van de app. Het proces hiervan is volledig te vinden in het onderstaande document. Het ontwerp is gemaakt door mij, met wat inspiratie van mijn groepsgenoten. Het volledige proces is hier te lezen. <a href="https://docs.google.com/document/d/1oN1I2wTQHwd_WguXDZICuoJKO8jnxf0erBPPcoLVwAU/edit?usp=sharing" target="_blank">Interface onderbouwing</a>. Het prototype zelf is hier te vinden <a href="https://xd.adobe.com/view/f1faff5a-64dc-400a-47e7-befa34913d4b-87cb/?fullscreen" target="_blank">Prototype gate 2</a>.
+                
+                    <br><br>
+                    <b>Brainstormen</b> <br>
+                    Nadat we groepen hebben gevormd tussen de 10 studenten die voor Sogeti | Project - B hebben gekozen zijn we snel aan de slag gegaan met concepten. Voor het einde van de week moesten we ons concept al inleveren. Hierbij moest duidelijk zijn welke doelgroep we konden helpen, maar ook hoe we hen konden helpen.
+
+                    <br><br>
+                    Het gehele brainstormproces hiervan is beschreven in het volgende document. <a href="https://docs.google.com/document/d/1godhBQ_GnZfAHxuCW0aD_eq8aVmRB7ZGGVeft-eO5q0/edit?usp=sharing" target="_blank">Brainstormen Project - B</a>
+
                 </p>
                 <br>
                 <h4>Bewijslast</h4>
@@ -67,6 +75,9 @@
                     <li><a href="https://xd.adobe.com/view/f1faff5a-64dc-400a-47e7-befa34913d4b-87cb/?fullscreen" target="_blank">Prototype gate 2</a></li>
                     <li><a href="https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/edit?usp=sharing" target="_blank">Parkinson Cafe usertest - 11 april</a></li>
                     <li><a href="https://docs.google.com/document/d/1oN1I2wTQHwd_WguXDZICuoJKO8jnxf0erBPPcoLVwAU/edit?usp=sharing" target="_blank">Interface onderbouwing</a></li>
+                    <li><a href="https://docs.google.com/document/d/1godhBQ_GnZfAHxuCW0aD_eq8aVmRB7ZGGVeft-eO5q0/edit?usp=sharing" target="_blank">Brainstormen Project - B</a></li>
+                    <li><a href="https://drive.google.com/file/d/1PltxoMQu9QoFOPJAtiySVdFI9AFYGw--/view?usp=sharing" target="_blank">Pains & Gains</a></li>
+                    <li><a href="https://drive.google.com/file/d/1CgMsEjFUPr7Til6rPAIX9H7M7g2qcRCK/view?usp=sharing" target="_blank">Concept document TPP</a></li>
                 </ul>
             </div>
         </div>
@@ -97,13 +108,19 @@
                 </table>
 
                 <p>
-                </p>
+                    <b>The Parkinson Project App</b> <br>
+                    Wij hebben nagedacht over meerdere producten, denk hierbij aan: Smart speakers, smartwatches, tablets, smartphones, en nog meer. Maar na online onderzoek en het zelf te hebben ervaren bij het Parkinson café wisten we zeker dat een smartphone applicatie de beste oplossing is. De meeste ouderen gebruiken vaker een smartphone dan elk ander smart device. Daarom hebben wij gekozen voor een app.
+                    <br><br>
 
+                    <b>Executie</b>
+                    In het executie bestand staat volledig beschreven waarom ik voor bepaalde middelen heb gekozen bij mijn media strategie. Graag verwijs ik door naar het <a href="https://docs.google.com/document/d/1Eiu0JdMJSdejcVpL3cNnVwk9aSlITLa81zAs54Zqucc/edit?usp=sharing" target="_blank">executie</a> bestand.
+                </p>
+                
                 <br>
                 <h4>Bewijslast</h4>
-                <!-- <ul>
-                    <li><a href="https://docs.google.com/document/d/11eJ1lPo7GzCOf09mF5phCBeJdROOIN2dCMS5FFvUw4Y/edit?usp=sharing" target="_blank">Scrum proces</a></li>
-                </ul> -->
+                <ul>
+                    <li><a href="https://docs.google.com/document/d/1Eiu0JdMJSdejcVpL3cNnVwk9aSlITLa81zAs54Zqucc/edit?usp=sharing" target="_blank">Executie</a></li>
+                </ul>
             </div>
         </div>
     </div>
@@ -133,13 +150,16 @@
                 </table>
 
                 <p>
+                    Ik heb volledig beschreven waarom ik de diverse middelen heb gekozen. Het gebruik van typografie, beeld, short copy en tone of voice zijn ook beschreven in het document. Op elk design heb ik meerdere iteraties gemaakt, en beschreven waarom ik bepaalde veranderingen heb gemaakt.
+
+                    Het volledige proces, documentatie en de designs heb ik beschreven in het volgende bestand. <a href="https://docs.google.com/document/d/1Eiu0JdMJSdejcVpL3cNnVwk9aSlITLa81zAs54Zqucc/edit?usp=sharing" target="_blank">Executie</a>.
                 </p>
 
                 <br>
                 <h4>Bewijslast</h4>
-                <!-- <ul>
-                    <li><a href="https://docs.google.com/document/d/11eJ1lPo7GzCOf09mF5phCBeJdROOIN2dCMS5FFvUw4Y/edit?usp=sharing" target="_blank">Scrum proces</a></li>
-                </ul> -->
+                <ul>
+                    <li><a href="https://docs.google.com/document/d/1Eiu0JdMJSdejcVpL3cNnVwk9aSlITLa81zAs54Zqucc/edit?usp=sharing" target="_blank">Executie</a></li>
+                </ul>
             </div>
         </div>
     </div>

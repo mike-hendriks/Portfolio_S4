@@ -54,17 +54,54 @@
                 <img src="./public/images/architectuurschets_v1.jpg" alt="Architectuurschets" class="img-responsive">
 
                 <p>
-                    <b>React</b> 
+                    <br>
+                    Om de connecties van alle onderdelen en de algemene architectuur beter te omschrijven heb ik een nieuwe architectuur schets gemaakt.
+                    <br>
+                    <br>
+                </p>
+
+                <img src="./public/images/architectuurschets_v2.jpg" alt="Architectuurschets v2" class="img-responsive">
+
+                <p>
+                    De app bestaat uit 3 delen:
+                    <ul>
+                        <li><b>Front-end</b>: alles wat de gebruiker te zien krijgt</li>
+                        <li><b>Redux</b>: zorgt voor alle data door de gehele app, en haalt deze ook uit Firestore</li>
+                        <li><b>Firebase</b>: dataopslag, authenticatie en cloud functions voor het toevoegen van een gebruiker aan de database na het inloggen.</li>
+                    </ul>
+                    <br><br>
+                    <b>Redux</b> <br>
+                    Redux is een javascript library en draait binnen de app. Het zorgt er voor zorgt dat data in de app beschikbaar is op alle schermen van de app. Dit scheelt veel werk met het doorgeven en ophalen van data. Hierdoor is de workflow tijdens het ontwikkelen sneller. Maar het allerbelangrijkste, omdat  alle data bewaart wordt hoef je veel minder vaak data opnieuw op te halen.
+                </p>
+
+                <p>
+                    <b>React</b> <br>
                     Door de juiste werkwijze van React (Native) te gebruiken zorgen wij ervoor dat alle onderdelen van de applicatie zijn opgebouwd uit componenten. Elk onderdeel van de applicatie zal bestaan uit een component, mogelijk vallen er onder dit component weer meerdere componenten. 
                     <br><br>
                     Neem als voorbeeld een input field, deze zal op meerdere plekken in de applicatie terugkomen, maar de styling van het input veld kopiëren naar de nieuwe pagina zou geen goede manier zijn van werken. Daarom zou je van het input veld een component kunnen maken die de styling automatisch gebruikt zodra je het component aan roept. Ook kan je verschillende data meteen meesturen naar het component, denk hierbij aan placeholder tekst, input name, value en andere attributen.
                     <br><br>
                     Ik vind het heel fijn om met React te werken, reusability is een groot aspect van React en ik ben hier een grote voorstander van. Als programmeur wil ik zo min mogelijk herhalend werk doen en React geeft hier een uitstekende basis voor. Uiteraard is Javascript ook een hele fijne programmeertaal.
                     <br><br>
+                    In de user stories hieronder staat vermeld hoe ik met componenten werk en hoe deze worden hergebruikt door mij.
+                    <br><br>
 
                     <b>User stories</b><br>
                     Tijdens het project gebruiken wij scrum voor een goede verdeling van onze taken. Hoe dit allemaal verloopt en welke user stories er zijn opgezet aan het project verwijs ik graag door naar het document <a href="https://docs.google.com/document/d/11eJ1lPo7GzCOf09mF5phCBeJdROOIN2dCMS5FFvUw4Y/edit?usp=sharing" target="_blank">Project Methodiek - scrum</a>
+                    <br><br>
+                    Ik heb 2 user stories volledig uitgewerkt, hiervan beschrijf ik het volledige proces in een document specifiek voor de user story. Design, testen, development en reflecties staan allemaal vermeld in deze documenten.
+                    <br>
+                    De user stories die ik heb uitgewerkt van begin tot eind zijn:
+                    <ul>
+                        <li><a href="https://docs.google.com/document/d/1pl7AqTcleHD_8KdwavQDR_xP7Tcy-oSZsyGGcvpWxco/edit?usp=sharing" target="_blank">Als Parkinson patiënt wil ik een overzicht van alle dagelijkse handelingen die met mijn ziekte te maken hebben.</a></li>
+                        <li><a href="https://docs.google.com/document/d/1seq7UdSGGpmRaTNDejiVJ22EDRW3PTystY9_zMNHfgM/edit?usp=sharing" target="_blank">Als gebruiker van de app wil ik een overzicht van alle functionaliteiten die de app te bieden heeft.</a></li>
+                    </ul>
                 </p>
+
+                <br>
+                <h4>Bewijslast</h4>
+                <ul>
+                    <li><a href="https://github.com/mike-hendriks/Blank-project" target="_blank">Blank project</a></li>
+                </ul>
             </div>
         </div>
     </div>
@@ -133,29 +170,39 @@
                 </table>
                 
                 <p>
-                    Momenteel gebruik ik Visual Studio Code als editor. Om het leven als programmeur wat makkelijker te maken maak ik gebruik van een aantal plugins. Een kleine greep hiervan:                    <br>
+                    Momenteel gebruik ik Visual Studio Code als editor. Om het ontwikkelproces wat makkelijker te maken maak ik gebruik van een aantal plugins. Hieronder staat een overzicht hiervan: 
+                    <br>
                     <ul>
-                        <li>SCSS snippets</li>
-                        <li>ES7 React/Redux/React-native snippets</li>
-                        <li>Een linter plugin</li>
-                        <li>Gitlens om makkelijker merge conflicts op te lossen, en te zien welke regel voor het laatst is aangepast door welke groepsgenoot</li>
-                        <li>ES6 snippets</li>
-                        <li>Laravel en Laravel blade snippets (Voor als ik aan Laravel projecten werk)</li>
-                        <li>Node.js modules intellisense</li>
-                        <li>PHP intellisense</li>
-                        <li>Prettier</li>
-                        <li>Terminal</li>
-                        <li>Settings sync</li>
+                        <li><b>SCSS snippets</b> om autocomplete aan te vullen met SCSS snippets</li>
+                        <li><b>ES7 React/Redux/React-native snippets</b> om autocomplete aan te vullen met alle nieuwe snippets die ES7, Redux en React Native te bieden hebben</li>
+                        <li><b>Een linter plugin</b> om mogelijke errors vroegtijdig te herkennen en voorkomen</li>
+                        <li><b>Gitlens</b> om makkelijker merge conflicts op te lossen, en te zien welke regel voor het laatst is aangepast door welke groepsgenoot</li>
+                        <li><b>ES6 snippets</b> om autocomplete aan te vullen met de nieuwe functionaliteiten die ES6 te bieden heeft</li>
+                        <li><b>Node.js modules intellisense</b>  een slimmere manier van autocomplete voor Node</li>
+                        <li><b>PHP intellisense</b> een slimmere manier van autocomplete voor PHP</li>
+                        <li><b>Prettier</b> om mijn code meteen te formatteren zoals ik het vooraf in stel</li>
+                        <li><b>Terminal</b> zodat ik geen apart terminal venster hoef te openen en potentiële error direct kan zien onderin mijn ontwikkelomgeving</li>
+                        <li><b>Settings sync</b> zodat ik al mijn plugins en settings op kan slaan in een Github Gist, zodat ik deze op al mijn apparaten makkelijk kan hergebruiken</li>
+                        <li><b>FTP sync</b> zodat ik gemakkelijk mijn bestanden kan synchroniseren met een ontwikkel server</li>
                     </ul>
                     <br>
-                    Verder maak ik nog gebruik van een paar plugins om de styling van de editor aan te passen.
+                    Verder maak ik nog gebruik van een paar plugins om de styling van de editor aan te passen. <b>Horizon</b> als color theme om de kleuren van de tekst aan te passen.
+                    <b>Material file icons</b> om bestand gerelateerde icoontjes toe te voegen in de file tree, hierdoor kan ik sneller de juiste bestanden vinden.
                     <br><br>
-                    Voor react project maak ik gebruik van het npm pakket “create react app”. Deze package creëert automatisch de benodigde bestanden om meteen aan de slag te kunnen met het ontwikkelen van een React applicatie. Ook genereert deze een script om het project op een lokale server te draaien.
+                    Al deze plugins zorgen er een voor een voor dat mijn ontwikkelproces sneller is, en ik daardoor sneller bij het einddoel kan komen. Ik ben erg tevreden met Visual Studio Code en de plugins waar ik gebruik van maak.
                     <br><br>
-                    Voor projecten die geen React gebruiken maak ik gebruik van mijn eigen github repository <a href="https://github.com/mike-hendriks/Blank-project" target="_blank">Blank project</a>. Deze repository bevat de bestanden en file structure waar ik altijd mee werk in HTML projecten. Ook bevat deze scripts om SCSS en ES6 te compilen.
+
+                    <h4>Ontwikkelstraat</h4>
+                    <h5>Create React App</h5>
+                    Voor react projecten maak ik gebruik van het npm pakket “create react app”. Dit package creëert automatisch de benodigde bestanden om meteen aan de slag te kunnen met het ontwikkelen van een React applicatie. Ook genereert deze een script om het project op een lokale server te draaien. Dit zorgt er voor dat ik zelf veel minder werk heb met de initiële opzet van een nieuw React project en versnelt daarom het algemene ontwikkelproces.
                     <br><br>
-                    <b>Expo</b><br>
-                    Tijdens het project "The Parkinson Project" maken we gebruik van Expo, een ontwikkel tool die het maken van cross platform apps een stuk sneller kan maken. Dit komt door de meerdere "snacks" die beschikbaar zijn om inspiratie uit te halen. Ook zijn veel native functionaliteiten ingebouwd waardoor je ze makkelijk kan gebruiken door een simpele import.
+
+                    <h5>Blank project</h5>
+                    Voor projecten die geen React gebruiken maak ik gebruik van mijn eigen github repository <a href="https://github.com/mike-hendriks/Blank-project" target="_blank">Blank project</a>. Deze repository bevat de bestanden en file structure waar ik altijd mee werk in HTML projecten. Ook bevat deze scripts om SCSS en ES6 te compilen. Door deze repository hoef ik nooit meer zelf de file structure aan te maken, een Gulp file te schrijven voor het compilen van mijn JS en SCSS. Dit bespaart gemiddeld een half uur per project dat ik op zet.
+                    <br><br>
+
+                    <h5>Expo</h5>
+                    Expo is een SDK ontwikkeld voor het maken van React Native apps. Expo komt met een grote hoeveelheid aan ingebouwde functies die er voor zorgen dat je geen native code hoeft te schrijven en geen dingen dubbel hoeft te programmeren voor meerdere platformen. Het opzetten van een app met Expo is heel simpel, door command <b>“expo init my-new-project”</b> uit te voeren heb je direct een nieuw project staan en kan je aan de slag met je nieuwe Expo & React Native app.
 
                 </p>
                 <br>

@@ -40,6 +40,8 @@
                 <h4>Bewijslast</h4>
                 <ul>
                     <li><a href="https://docs.google.com/document/d/11eJ1lPo7GzCOf09mF5phCBeJdROOIN2dCMS5FFvUw4Y/edit?usp=sharing" target="_blank">Scrum proces</a></li>
+                    <li><a href="https://docs.google.com/document/d/1pl7AqTcleHD_8KdwavQDR_xP7Tcy-oSZsyGGcvpWxco/edit?usp=sharing" target="_blank">User story: Als Parkinson patiënt wil ik een overzicht van alle dagelijkse handelingen die met mijn ziekte te maken hebben.</a></li>
+                    <li><a href="https://docs.google.com/document/d/1seq7UdSGGpmRaTNDejiVJ22EDRW3PTystY9_zMNHfgM/edit?usp=sharing" target="_blank">User story: Als gebruiker van de app wil ik een overzicht van alle functionaliteiten die de app te bieden heeft.</a></li>
                 </ul>
             </div>
         </div>
@@ -88,12 +90,25 @@
 
                     <br><br>
                     Tijdens ons gesprek met een parkinsonverpleegkundige hebben we veel inzicht gekregen over wat wel en niet werkt bij parkinson patiënten. Zo hadden wij als groep eerst een idee om de patiënten te assisteren met het initiatief te nemen door hun energie te meten en op basis hiervan suggesties te doen voor activiteiten zoals wandelingen. Echter vertelde de verpleegkundige ons dat dit helemaal niet zou kunnen werken. De patiënten hebben echt iemand nodig die hun mee neemt, een simpele notificatie gaat hierbij niet helpen.
+                    <br><br>
+
+                    <b>Bezoek Parkinson Café - 11 april</b> <br>
+                    Tijdens het bezoek aan het Parkinson Café in eindhoven op 11 april heb ik, net zoals iedereen uit de proftaak groep, <a href="https://xd.adobe.com/view/f1faff5a-64dc-400a-47e7-befa34913d4b-87cb/?fullscreen" target="_blank">Prototype gate 2</a> getest op de doelgroep. Hierbij heb ik kort vooraf wat vragen gesteld over de gebruiker, mijzelf voorgesteld en verteld waar ons product voor dient. Doordat ik van te voren heb nagedacht over hoe ik het ging aanpakken merkte ik wel degelijk verschil met voorgaande tests uit andere semesters. Ik kreeg veel gerichter feedback op het product. Feedback waar wij ook duidelijk iets mee kunnen. In totaal is er bij het cafe getest met ongeveer 6 personen. De verwerkte resultaten zijn <a href="https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/edit?usp=sharing" target="_blank">hier</a> te vinden.
+                    <br><br>
+
+                    <b>Usability test</b> <br>
+                    Aan het einde van het project heb ik samen met mijn proftaak groep ons product getest bij de doelgroep. Het testplan dat is opgezet voor deze test is gemaakt door Bart en Max. In totaal zijn er 6 testen uitgevoerd, door iedereen 1. De bevindingen, mogelijke aanpassingen en reflecties van de test zijn te vinden in dit document. <a href="https://docs.google.com/document/d/1CjGGdkMwiz6Kw4cdddxNgR5q7fArJsJDPkqS4-nLoI8/edit?usp=sharing" target="_blank">Usability testrapport.</a> 
                 </p>
                 <br>
                 <h4>Bewijslast</h4>
                 <ul>
                     <li><a href="https://docs.google.com/document/d/1vWBSlOnRip88YsMuzoMdp6u-qB5gzLuMiRMHghgpkxg/edit?usp=sharing" target="_blank">Onderzoeksdocument</a></li>
                     <li><a href="https://www.youtube.com/watch?v=EYMnHK3H6vQ&feature=youtu.be" target="_blank">A day in the life</a></li>
+                    <li><a href="https://docs.google.com/document/d/1pl7AqTcleHD_8KdwavQDR_xP7Tcy-oSZsyGGcvpWxco/edit?usp=sharing" target="_blank">User story: Als Parkinson patiënt wil ik een overzicht van alle dagelijkse handelingen die met mijn ziekte te maken hebben.</a></li>
+                    <li><a href="https://docs.google.com/document/d/1seq7UdSGGpmRaTNDejiVJ22EDRW3PTystY9_zMNHfgM/edit?usp=sharing" target="_blank">User story: Als gebruiker van de app wil ik een overzicht van alle functionaliteiten die de app te bieden heeft.</a></li>
+                    <li><a href="https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/edit?usp=sharing" target="_blank">Parkinson Café usertest - 11 april</a></li>
+                    <li><a href="https://docs.google.com/document/d/1CjGGdkMwiz6Kw4cdddxNgR5q7fArJsJDPkqS4-nLoI8/edit?usp=sharing" target="_blank">Usability testrapport</a></li>
+
                 </ul>
             </div>
         </div>
@@ -126,25 +141,30 @@
                 <p>
                     De door mijzelf opgezette leerdoelen zijn:
                     <br><br>
-                    Om deze vraag te beantwoorden hebben wij de volgende onderzoeken gedaan: <br><br>
                     <b>Oordeelsvorming</b> <br>
                     Tijdens dit project wil ik beter leren omgaan triangulatie. Ook wil ik beter in staat zijn om relevante onderzoeksmethoden te kiezen voor de juiste projecten/ onderzoeken.
+                    <br><br>
+                    Door de juiste onderzoeksmethodes te kiezen ben ik (samen met Bart) in staat geweest om veel nieuwe inzichten te krijgen over de hulpmiddelen voor parkinson patiënten, maar ook over wat er wel en niet mogelijk is in hun leven door de ziekte. Voor meer informatie over oordeelsvorming wil ik graag doorverwijzen naar PTM -> Oordeelsvorming, dit leerdoel staat boven het huidige leerdoel.
                     <br><br>
 
                     <b>Communicatie</b> <br>
                     Tijdens gebruikersonderzoeken wil ik beter in staat zijn het concept over te brengen zonder hier al te veel over te vertellen. Tijdens eerdere gebruikersonderzoeken had ik het gevoel dat ik alles te diep uitleg waardoor de antwoorden kunnen worden beïnvloed.
                     <br><br>
+                    Tijdens mijn bezoeken aan het Parkinson café ben ik heel doordacht te werk gegaan en heb ik het concept goed over kunnen brengen op de testpersonen. Ook tijdens de presentatie van gate 1 is het project goed gepitcht door Mark, Justin en mij.
+                    <br><br>
                     
                     <b>Leervaardigheden</b> <br>
                     Tijdens semester 4 wil ik gebruik leren maken van React Native. Hierbij hoop ik ook nog extra kennis en oefening op te doen in React zelf. Buiten programmeren wil ik ook beter leren omgaan met het DOT framework, dit sluit weer aan het trianguleren uit het leerdoel van oordeelsvorming.
-                    <br> <br>
-
-                    Door de juiste onderzoeksmethodes te kiezen ben ik (samen met Bart) in staat geweest om veel nieuwe inzichten te krijgen over de hulpmiddelen voor parkinson patiënten, maar ook over wat er wel en niet mogelijk is in hun leven door de ziekte.
 
                     <br><br>
 
                     <b>Bezoek Parkinson Café - 11 april</b> <br>
                     Tijdens het bezoek aan het Parkinson Café in eindhoven op 11 april heb ik, net zoals iedereen uit de proftaak groep, <a href="https://xd.adobe.com/view/f1faff5a-64dc-400a-47e7-befa34913d4b-87cb/?fullscreen" target="_blank">Prototype gate 2</a> getest op de doelgroep. Hierbij heb ik kort vooraf wat vragen gesteld over de gebruiker, mijzelf voorgesteld en verteld waar ons product voor dient. Doordat ik van te voren heb nagedacht over hoe ik het ging aanpakken merkte ik wel degelijk verschil met voorgaande tests uit andere semesters. Ik kreeg veel gerichter feedback op het product. Feedback waar wij ook duidelijk iets mee kunnen. In totaal is er bij het cafe getest met ongeveer 6 personen. De verwerkte resultaten zijn <a href="https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/edit?usp=sharing" target="_blank">hier</a> te vinden.
+                    <br><br>
+
+                    <b>Usability test</b> <br>
+                    Aan het einde van het project heb ik samen met mijn proftaak groep ons product getest bij de doelgroep. Het testplan dat is opgezet voor deze test is gemaakt door Bart en Max. In totaal zijn er 6 testen uitgevoerd, door iedereen 1. De bevindingen, mogelijke aanpassingen en reflecties van de test zijn te vinden in dit document. <a href="https://docs.google.com/document/d/1CjGGdkMwiz6Kw4cdddxNgR5q7fArJsJDPkqS4-nLoI8/edit?usp=sharing" target="_blank">Usability testrapport.</a> 
+
                     <br><br>
 
                     <b>React</b> <br>
@@ -157,6 +177,9 @@
                 <ul>
                     <li><a href="https://docs.google.com/document/d/11eJ1lPo7GzCOf09mF5phCBeJdROOIN2dCMS5FFvUw4Y/edit?usp=sharing" target="_blank">Scrum Proces</a></li>
                     <li><a href="https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/edit?usp=sharing" target="_blank">Parkinson Cafe usertest - 11 april</a></li>
+                    <li><a href="https://docs.google.com/document/d/1pl7AqTcleHD_8KdwavQDR_xP7Tcy-oSZsyGGcvpWxco/edit?usp=sharing" target="_blank">User story: Als Parkinson patiënt wil ik een overzicht van alle dagelijkse handelingen die met mijn ziekte te maken hebben.</a></li>
+                    <li><a href="https://docs.google.com/document/d/1seq7UdSGGpmRaTNDejiVJ22EDRW3PTystY9_zMNHfgM/edit?usp=sharing" target="_blank">User story: Als gebruiker van de app wil ik een overzicht van alle functionaliteiten die de app te bieden heeft.</a></li>
+                    <li><a href="https://docs.google.com/document/d/1CjGGdkMwiz6Kw4cdddxNgR5q7fArJsJDPkqS4-nLoI8/edit?usp=sharing" target="_blank">Usability testrapport</a></li>
                 </ul>
             </div>
         </div>
@@ -188,13 +211,16 @@
                 <p>
                 Aan het einde van gate 1 heb ik samen met Mark en Justin ons idee gepresenteerd. Dit ging erg goed, het idee was goed overgebracht en we kregen als feedback dat het een goede duidelijke presentatie was.
                 <br><br>
-                Voor de bronvermelding hebben Bart en ik gebruik gemaakt van de IPA stijl bronvermelding, dit vind je terug in ons onderzoeksdocument.
-                
+                Voor de bronvermelding hebben Bart en ik gebruik gemaakt van de APA stijl bronvermelding, dit vind je terug in ons onderzoeksdocument.
+                <br><br>
                 <b>Bezoek Parkinson Café - 11 april</b> <br>
                 Tijdens het bezoek aan het Parkinson Café in eindhoven op 11 april heb ik, net zoals iedereen uit de proftaak groep, <a href="https://xd.adobe.com/view/f1faff5a-64dc-400a-47e7-befa34913d4b-87cb/?fullscreen" target="_blank">Prototype gate 2</a> getest op de doelgroep. Hierbij heb ik kort vooraf wat vragen gesteld over de gebruiker, mijzelf voorgesteld en verteld waar ons product voor dient. Doordat ik van te voren heb nagedacht over hoe ik het ging aanpakken merkte ik wel degelijk verschil met voorgaande tests uit andere semesters. Ik kreeg veel gerichter feedback op het product. Feedback waar wij ook duidelijk iets mee kunnen. In totaal is er bij het cafe getest met ongeveer 6 personen. De verwerkte resultaten zijn <a href="https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/edit?usp=sharing" target="_blank">hier</a> te vinden.
                 <br><br>
 
+                <b>Usability test</b> <br>
+                Aan het einde van het project heb ik samen met mijn proftaak groep ons product getest bij de doelgroep. Het testplan dat is opgezet voor deze test is gemaakt door Bart en Max. In totaal zijn er 6 testen uitgevoerd, door iedereen 1. De bevindingen, mogelijke aanpassingen en reflecties van de test zijn te vinden in dit document. <a href="https://docs.google.com/document/d/1CjGGdkMwiz6Kw4cdddxNgR5q7fArJsJDPkqS4-nLoI8/edit?usp=sharing" target="_blank">Usability testrapport.</a> 
 
+                <br><br>
 
                 </p>
                 <br>
@@ -202,6 +228,7 @@
                 <ul>
                     <li><a href="https://docs.google.com/document/d/1vWBSlOnRip88YsMuzoMdp6u-qB5gzLuMiRMHghgpkxg/edit?usp=sharing" target="_blank">Onderzoeksdocument</a></li>
                     <li><a href="https://docs.google.com/document/d/15PQBcwdE32wnlBglgcy5TTSkAmiFFcCCwc10EoTu99E/edit?usp=sharing" target="_blank">Parkinson Cafe usertest - 11 april</a></li>
+                    <li><a href="https://docs.google.com/document/d/1CjGGdkMwiz6Kw4cdddxNgR5q7fArJsJDPkqS4-nLoI8/edit?usp=sharing" target="_blank">Usability testrapport</a></li>
                 </ul>
             </div>
         </div>
